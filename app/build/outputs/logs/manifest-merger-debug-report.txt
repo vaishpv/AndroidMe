@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\d7e26699813f776cb43329227ca50793\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9738f33d812cea40c8ae06e35abd6990\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\6aa540a963e2ca8ced39d9076d044b0c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\f7570f1a4382fc66cf9dbe2b07405574\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\d4bb4b736abfa71c8d4458abe5e65912\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\9eff3f943585adaa1885f3386bc8fb45\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\a01e3bafb33853ce5ea5946da24f11b1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\d77feea180359b1fbcb6a96a6e1498ce\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8d71647e2195f71fdc5c5b54c08672c1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\d7e26699813f776cb43329227ca50793\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\d7e26699813f776cb43329227ca50793\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9738f33d812cea40c8ae06e35abd6990\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9738f33d812cea40c8ae06e35abd6990\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\6aa540a963e2ca8ced39d9076d044b0c\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\6aa540a963e2ca8ced39d9076d044b0c\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\f7570f1a4382fc66cf9dbe2b07405574\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\f7570f1a4382fc66cf9dbe2b07405574\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\d4bb4b736abfa71c8d4458abe5e65912\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\d4bb4b736abfa71c8d4458abe5e65912\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\9eff3f943585adaa1885f3386bc8fb45\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\9eff3f943585adaa1885f3386bc8fb45\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\a01e3bafb33853ce5ea5946da24f11b1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\a01e3bafb33853ce5ea5946da24f11b1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\d77feea180359b1fbcb6a96a6e1498ce\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\d77feea180359b1fbcb6a96a6e1498ce\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8d71647e2195f71fdc5c5b54c08672c1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8d71647e2195f71fdc5c5b54c08672c1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.android_me.ui.MainActivity
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:11:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.android.android_me.ui.AndroidMeActivity
+ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:18:9-58
+	android:name
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml:18:19-55
+uses-sdk
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\d7e26699813f776cb43329227ca50793\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\d7e26699813f776cb43329227ca50793\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9738f33d812cea40c8ae06e35abd6990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\9738f33d812cea40c8ae06e35abd6990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\6aa540a963e2ca8ced39d9076d044b0c\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\6aa540a963e2ca8ced39d9076d044b0c\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\f7570f1a4382fc66cf9dbe2b07405574\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\f7570f1a4382fc66cf9dbe2b07405574\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\d4bb4b736abfa71c8d4458abe5e65912\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\d4bb4b736abfa71c8d4458abe5e65912\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\9eff3f943585adaa1885f3386bc8fb45\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\9eff3f943585adaa1885f3386bc8fb45\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\a01e3bafb33853ce5ea5946da24f11b1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\a01e3bafb33853ce5ea5946da24f11b1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\d77feea180359b1fbcb6a96a6e1498ce\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\d77feea180359b1fbcb6a96a6e1498ce\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8d71647e2195f71fdc5c5b54c08672c1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\8d71647e2195f71fdc5c5b54c08672c1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\prasa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\d7e26699813f776cb43329227ca50793\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		ADDED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
+		INJECTED from C:\vaishali\Udacity-AdvancedAndroidCourse\AndroidMe\Android_Me\app\src\main\AndroidManifest.xml
